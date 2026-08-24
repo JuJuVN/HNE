@@ -1,2 +1,2 @@
 cmake --build build
-.\build\HNE.exe
+.\build\hne.exe
